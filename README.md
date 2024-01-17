@@ -5,7 +5,7 @@ Dataset source: https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-da
 
 ## Objective
 
-The goal is to train predictive (binary classification) models applying different Machine Learning algorithms, while handling, processing and exploring data in a particular way for each of these algorithms.
+The goal is to train predictive models applying different Machine Learning algorithms, while handling, processing and exploring data in a particular way for each of these algorithms.
 
 In each notebook, more than just the hard code, I try to explore some relevant theoretical concepts from the ML algorithms, statistics and data processing as well.
 
