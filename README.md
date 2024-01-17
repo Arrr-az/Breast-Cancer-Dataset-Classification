@@ -22,7 +22,7 @@ In each notebook, more than just the hard code, I try to explore some relevant t
 ## Dataset Context
 
 (Description from Kaggle)
-This dataset contains multiple observations from cell nuclei obtained from patients diagnosed with Bening or Malign Breast Cancer. Each instance has 30 features, composed of the mean, standard error, and "worst" (mean of the three largest values) of 10 different cell nuclei characteristics:
+This dataset contains multiple observations from cell nuclei obtained from patients diagnosed with Bening or Malignant Breast Cancer. Each instance has 30 features, composed of the mean, standard error, and "worst" (mean of the three largest values) of 10 different cell nuclei characteristics:
 
 a) radius (mean of distances from center to points on the perimeter)
 
@@ -43,3 +43,5 @@ h) concave points (number of concave portions of the contour)
 i) symmetry
 
 j) fractal dimension ("coastline approximation" - 1)
+
+The goal is to predict, based on these features, if an observed instance corresponds to Benign (B) or Malignant (M) cancer.
