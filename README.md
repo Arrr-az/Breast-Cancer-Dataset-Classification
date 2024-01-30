@@ -15,10 +15,6 @@ In each notebook, more than just the hard code, I try to explore some relevant t
 
 2) Decision Trees
 
-3) Logistic Regression
-
-4) Support Vector Machine
-
 ## Dataset Context
 
 (Description from Kaggle)
